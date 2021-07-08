@@ -4,6 +4,6 @@ In this repository I share my code that solves the wave equation velocity-stress
 
 This serves to model the acoustic wave propagation phenomenon highly used in subsurface exploration processes.
 
-Fourth order finite differences were used in space and second order finite differences were used in time. 
+Fourth order finite differences method were used in space and second order finite differences were used in time. 
 
-This code also includes the implementation of the pseudospectral method, which improves the results with finite differences. 
+This code also includes the implementation of pseudospectral method, which improves the results with finite differences. 
