@@ -6,4 +6,10 @@ This serves to model the acoustic wave propagation phenomenon highly used in sub
 
 Fourth order finite differences method were used in space and second order finite differences were used in time. 
 
-This code also includes the implementation of pseudospectral method, which improves the results with finite differences. 
+This code also includes the implementation of pseudospectral method, which improves the results with finite differences.
+
+The main file to run is "indata_Acustic_Marmousi.m"
+
+In the file "a_forward_one_source.m" you can configure the geometry of sources and receivers, dx, dt, source wavelet, etc.
+
+
